@@ -2,7 +2,7 @@ public class MyArrayList {
     //一个Object数组
     private Object[] objects;
     private  int size = 0;
-
+//修改成功
     //初始容量为10
     public MyArrayList(){
         this(10);
